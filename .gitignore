@@ -18,6 +18,7 @@
 ###< symfony/phpunit-bridge ###
 
 ### creation une feature <feat/feat2> ###
+### ajouter des fonctionnalité de paiement en ligne ###
 
 ### phpStorm ###
 .idea
