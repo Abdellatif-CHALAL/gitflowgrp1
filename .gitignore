@@ -17,4 +17,7 @@
 /phpunit.xml
 ###< symfony/phpunit-bridge ###
 
+### creation une feature <feat/feat2> ###
+
+### phpStorm ###
 .idea
